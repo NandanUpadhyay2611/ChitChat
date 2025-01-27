@@ -1,1 +1,1 @@
-export const BASE_URL="https://chit-chat-flax.vercel.app/";
+export const BASE_URL="https://chitchat-5y3c.onrender.com";
